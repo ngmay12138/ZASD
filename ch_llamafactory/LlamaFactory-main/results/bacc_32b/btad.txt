@@ -1,0 +1,61 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              741
+  Correct predictions:       369
+  Macro BAcc:                0.5810
+  Global BAcc:               0.5611
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+01                           0.5238    0.7143    0.0476    1.0000     1/21       49/49   
+02                           0.5950    0.7391    0.4000    0.7900    12/30      158/200  
+03                           0.6241    0.3379    0.2725    0.9756   109/400      40/41   
+------------------------------------------------------------------------------------------
+Macro Average                0.5810
+
+
+Error Cases (first 20):
+  Total errors: 372
+    1. 01/test/good/0017.bmp
+       true=0  pred=1  response: abnormal
+    2. 01/test/good/0003.bmp
+       true=0  pred=1  response: abnormal
+    3. 01/test/good/0010.bmp
+       true=0  pred=1  response: abnormal
+    4. 01/test/good/0006.bmp
+       true=0  pred=1  response: abnormal
+    5. 01/test/good/0011.bmp
+       true=0  pred=1  response: abnormal
+    6. 01/test/good/0002.bmp
+       true=0  pred=1  response: abnormal
+    7. 01/test/good/0004.bmp
+       true=0  pred=1  response: abnormal
+    8. 01/test/good/0018.bmp
+       true=0  pred=1  response: abnormal
+    9. 01/test/good/0019.bmp
+       true=0  pred=1  response: abnormal
+   10. 01/test/good/0009.bmp
+       true=0  pred=1  response: abnormal
+   11. 01/test/good/0008.bmp
+       true=0  pred=1  response: abnormal
+   12. 01/test/good/0007.bmp
+       true=0  pred=1  response: abnormal
+   13. 01/test/good/0013.bmp
+       true=0  pred=1  response: abnormal
+   14. 01/test/good/0005.bmp
+       true=0  pred=1  response: abnormal
+   15. 01/test/good/0001.bmp
+       true=0  pred=1  response: abnormal
+   16. 01/test/good/0012.bmp
+       true=0  pred=1  response: abnormal
+   17. 01/test/good/0015.bmp
+       true=0  pred=1  response: abnormal
+   18. 01/test/good/0020.bmp
+       true=0  pred=1  response: abnormal
+   19. 01/test/good/0014.bmp
+       true=0  pred=1  response: abnormal
+   20. 01/test/good/0016.bmp
+       true=0  pred=1  response: abnormal

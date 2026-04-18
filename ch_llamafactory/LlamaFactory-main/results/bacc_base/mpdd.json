@@ -1,0 +1,4218 @@
+{
+  "test": {
+    "bracket_black": [
+      {
+        "img_path": "bracket_black/test/good/013.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/031.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/015.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/000.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/027.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/007.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/002.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/023.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/004.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/008.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/025.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/003.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/010.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/019.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/029.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/028.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/017.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/030.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/014.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/006.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/005.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/024.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/016.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/011.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/018.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/020.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/001.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/021.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/026.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/022.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/009.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/good/012.png",
+        "cls_name": "bracket_black",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_black/test/hole/007.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/004.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/000.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/006.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/002.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/011.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/009.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/010.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/005.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/001.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/003.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/hole/008.png",
+        "cls_name": "bracket_black",
+        "specie_name": "hole",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/023.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/022.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/016.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/034.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/000.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/011.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/021.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/026.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/020.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/028.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/010.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/009.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/008.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/024.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/004.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/029.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/025.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/003.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/033.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/019.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/012.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/032.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/027.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/015.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/007.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/005.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/017.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/030.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/013.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/001.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/002.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/014.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/031.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/018.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_black/test/scratches/006.png",
+        "cls_name": "bracket_black",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      }
+    ],
+    "bracket_brown": [
+      {
+        "img_path": "bracket_brown/test/good/003.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/012.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/025.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/016.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/019.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/015.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/018.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/020.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/005.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/023.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/007.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/000.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/001.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/014.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/004.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/017.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/008.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/013.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/006.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/011.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/010.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/024.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/022.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/002.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/009.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/good/021.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/014.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/000.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/012.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/002.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/010.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/005.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/015.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/003.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/007.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/009.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/011.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/004.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/013.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/008.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/001.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/016.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/bend_and_parts_mismatch/006.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "bend_and_parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/023.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/019.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/013.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/015.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/024.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/016.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/033.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/010.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/028.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/031.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/027.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/002.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/017.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/006.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/025.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/008.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/032.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/007.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/004.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/012.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/026.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/000.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/005.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/003.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/022.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/030.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/011.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/018.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/029.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/001.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/020.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/009.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/014.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_brown/test/parts_mismatch/021.png",
+        "cls_name": "bracket_brown",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      }
+    ],
+    "bracket_white": [
+      {
+        "img_path": "bracket_white/test/good/026.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/012.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/023.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/019.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/028.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/010.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/005.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/011.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/013.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/029.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/025.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/014.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/000.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/016.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/027.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/006.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/015.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/002.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/017.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/004.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/007.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/020.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/008.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/018.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/003.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/009.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/001.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/021.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/024.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/good/022.png",
+        "cls_name": "bracket_white",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "bracket_white/test/scratches/004.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/016.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/002.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/008.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/013.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/014.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/007.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/001.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/005.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/010.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/009.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/006.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/011.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/003.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/012.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/015.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/scratches/000.png",
+        "cls_name": "bracket_white",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/006.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/007.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/000.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/011.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/001.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/012.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/005.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/010.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/002.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/004.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/008.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/003.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "bracket_white/test/defective_painting/009.png",
+        "cls_name": "bracket_white",
+        "specie_name": "defective_painting",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      }
+    ],
+    "connector": [
+      {
+        "img_path": "connector/test/good/014.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/011.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/026.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/021.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/004.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/012.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/015.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/006.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/010.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/019.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/009.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/002.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/000.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/005.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/024.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/017.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/023.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/013.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/029.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/018.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/008.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/016.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/025.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/027.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/001.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/020.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/022.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/007.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/028.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/good/003.png",
+        "cls_name": "connector",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/013.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/011.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/005.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/004.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/002.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/007.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/009.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/000.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/003.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/008.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/010.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/006.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/012.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "connector/test/parts_mismatch/001.png",
+        "cls_name": "connector",
+        "specie_name": "parts_mismatch",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      }
+    ],
+    "metal_plate": [
+      {
+        "img_path": "metal_plate/test/good/013.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/018.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/good/002.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/019.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/009.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/good/025.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/016.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/007.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/006.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/014.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/010.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/003.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/good/005.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/017.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/011.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/022.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/015.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/021.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/008.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/024.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/020.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/001.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/012.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/023.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/000.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/good/004.png",
+        "cls_name": "metal_plate",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/003.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/012.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/010.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/006.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/011.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/008.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/005.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/000.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/013.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/001.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/007.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/004.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/002.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/major_rust/009.png",
+        "cls_name": "metal_plate",
+        "specie_name": "major_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/027.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/023.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/007.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/022.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/018.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/024.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/015.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/029.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/000.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/025.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/028.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/005.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/020.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/009.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/013.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/026.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/031.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/017.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/030.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/002.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/033.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/011.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/019.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/010.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/016.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/021.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/001.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/014.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/004.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/012.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/003.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/006.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/scratches/008.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/scratches/032.png",
+        "cls_name": "metal_plate",
+        "specie_name": "scratches",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/000.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/011.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/007.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/019.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/005.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/016.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/010.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/008.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/022.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/006.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/004.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/013.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/001.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/002.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/020.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/017.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/018.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/015.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/003.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/021.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/009.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/012.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "metal_plate/test/total_rust/014.png",
+        "cls_name": "metal_plate",
+        "specie_name": "total_rust",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      }
+    ],
+    "tubes": [
+      {
+        "img_path": "tubes/test/good/008.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/020.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/030.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/026.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/022.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/013.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/025.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/003.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/023.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/015.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/028.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/029.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/014.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/001.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/018.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/006.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/007.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/009.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/027.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/004.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/002.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/019.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/005.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/031.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/021.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/012.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/017.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/010.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/016.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/000.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/011.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/good/024.png",
+        "cls_name": "tubes",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "tubes/test/anomalous/016.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/054.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/023.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/027.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/050.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/033.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/053.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/010.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/030.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/014.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/055.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/043.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/038.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/011.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/066.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/067.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/064.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/049.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/045.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/007.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/025.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/042.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/032.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/031.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/035.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/012.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/065.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/008.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/029.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/005.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/004.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/034.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/013.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/040.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/046.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/024.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/048.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/037.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/001.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/059.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/018.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/063.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/051.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/003.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/006.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/000.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/041.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/039.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/009.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/021.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/062.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/061.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/057.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/056.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/020.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/036.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/022.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/028.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/002.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/047.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/068.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/060.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/052.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/026.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/015.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/044.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/017.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/019.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "tubes/test/anomalous/058.png",
+        "cls_name": "tubes",
+        "specie_name": "anomalous",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      }
+    ]
+  },
+  "statistics": {
+    "total_images": 458,
+    "correct_predictions": 210,
+    "macro_bacc": 0.5338118454315638,
+    "global_bacc": 0.5570801096067053,
+    "class_wise": {
+      "bracket_black": {
+        "total": 79,
+        "correct": 32,
+        "accuracy": 0.4050632911392405,
+        "normal_total": 32,
+        "normal_correct": 32,
+        "normal_accuracy": 1.0,
+        "abnormal_total": 47,
+        "abnormal_correct": 0,
+        "abnormal_accuracy": 0.0,
+        "balanced_accuracy": 0.5
+      },
+      "bracket_brown": {
+        "total": 77,
+        "correct": 26,
+        "accuracy": 0.33766233766233766,
+        "normal_total": 26,
+        "normal_correct": 26,
+        "normal_accuracy": 1.0,
+        "abnormal_total": 51,
+        "abnormal_correct": 0,
+        "abnormal_accuracy": 0.0,
+        "balanced_accuracy": 0.5
+      },
+      "bracket_white": {
+        "total": 60,
+        "correct": 30,
+        "accuracy": 0.5,
+        "normal_total": 30,
+        "normal_correct": 30,
+        "normal_accuracy": 1.0,
+        "abnormal_total": 30,
+        "abnormal_correct": 0,
+        "abnormal_accuracy": 0.0,
+        "balanced_accuracy": 0.5
+      },
+      "connector": {
+        "total": 44,
+        "correct": 30,
+        "accuracy": 0.6818181818181818,
+        "normal_total": 30,
+        "normal_correct": 30,
+        "normal_accuracy": 1.0,
+        "abnormal_total": 14,
+        "abnormal_correct": 0,
+        "abnormal_accuracy": 0.0,
+        "balanced_accuracy": 0.5
+      },
+      "metal_plate": {
+        "total": 97,
+        "correct": 60,
+        "accuracy": 0.6185567010309279,
+        "normal_total": 26,
+        "normal_correct": 23,
+        "normal_accuracy": 0.8846153846153846,
+        "abnormal_total": 71,
+        "abnormal_correct": 37,
+        "abnormal_accuracy": 0.5211267605633803,
+        "balanced_accuracy": 0.7028710725893824
+      },
+      "tubes": {
+        "total": 101,
+        "correct": 32,
+        "accuracy": 0.31683168316831684,
+        "normal_total": 32,
+        "normal_correct": 32,
+        "normal_accuracy": 1.0,
+        "abnormal_total": 69,
+        "abnormal_correct": 0,
+        "abnormal_accuracy": 0.0,
+        "balanced_accuracy": 0.5
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              399
+  Correct predictions:       373
+  Macro BAcc:                0.9298
+  Global BAcc:               0.9298
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+kolektor                     0.9298    0.9348    0.9366    0.9231   325/347      48/52   
+------------------------------------------------------------------------------------------
+Macro Average                0.9298
+
+
+Error Cases (first 20):
+  Total errors: 26
+    1. kolektor/test/good/kos10_Part2.jpg
+       true=0  pred=1  response: <description>Curved white line anomaly in central region</description><think>The defect mask highlights a distinct, curv
+    2. kolektor/test/good/kos14_Part0.jpg
+       true=0  pred=1  response: <description>Left edge defect with dark irregular region</description><think>Upon comparing the original image with the 
+    3. kolektor/test/good/kos44_Part3.jpg
+       true=0  pred=1  response: <description>Curved white line anomaly in lower central region</description><think>The defect mask highlights a distinct
+    4. kolektor/test/good/kos10_Part6.jpg
+       true=0  pred=1  response: <description>White curved scratch on lower left surface</description><think>The defect mask highlights a thin, curved wh
+    5. kolektor/test/good/kos42_Part4.jpg
+       true=0  pred=1  response: <description>Small white linear anomaly in lower central region</description><think>Upon comparing the original image wi
+    6. kolektor/test/good/kos46_Part4.jpg
+       true=0  pred=1  response: <description>Curved white anomaly in lower central region</description><think>The original image shows a textured, granu
+    7. kolektor/test/good/kos23_Part1.jpg
+       true=0  pred=1  response: <description>Small bright spot in central region</description><think>The original image shows a textured, granular surfa
+    8. kolektor/test/good/kos26_Part1.jpg
+       true=0  pred=1  response: <description>Small white spot near top center</description><think>The defect mask highlights a small, isolated white reg
+    9. kolektor/test/good/kos40_Part0.jpg
+       true=0  pred=1  response: <description>White linear scratch at bottom edge</description><think>The defect mask highlights a thin, elongated white 
+   10. kolektor/test/good/kos46_Part2.jpg
+       true=0  pred=1  response: <description>Small white irregular patch on left edge</description><think>Upon comparing the original image with the def
+   11. kolektor/test/good/kos11_Part2.jpg
+       true=0  pred=1  response: <description>Small white spot on left edge</description><think>The defect mask highlights a small, isolated white region
+   12. kolektor/test/good/kos06_Part3.jpg
+       true=0  pred=1  response: <description>Small white irregular patch on lower left</description><think>Upon comparing the original image with the de
+   13. kolektor/test/good/kos19_Part2.jpg
+       true=0  pred=1  response: <description>Horizontal crack near center of the object</description><think>Upon comparing the original image with the d
+   14. kolektor/test/good/kos14_Part6.jpg
+       true=0  pred=1  response: <description>Small white vertical anomaly on left edge</description><think>Upon comparing the original image with the de
+   15. kolektor/test/good/kos45_Part0.jpg
+       true=0  pred=1  response: <description>Small dark spot at bottom edge</description><think>Upon comparing the original image with the defect mask, 
+   16. kolektor/test/good/kos30_Part7.jpg
+       true=0  pred=1  response: <description>Curved white line at bottom edge</description><think>The defect mask highlights a thin, curved white line l
+   17. kolektor/test/good/kos14_Part2.jpg
+       true=0  pred=1  response: <description>Vertical crack on the left edge of the object</description><think>Upon comparing the original image with th
+   18. kolektor/test/good/kos29_Part4.jpg
+       true=0  pred=1  response: <description>Small dark spot near center of image</description><think>Upon comparing the original image with the defect 
+   19. kolektor/test/good/kos48_Part4.jpg
+       true=0  pred=1  response: <description>Small bright spot on lower-left area</description><think>Upon comparing the original image with the defect 
+   20. kolektor/test/good/kos04_Part2.jpg
+       true=0  pred=1  response: <description>Small white irregular spot on left side</description><think>Upon comparing the original image with the defe

@@ -1,0 +1,68 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              8050
+  Correct predictions:       7296
+  Macro BAcc:                0.8501
+  Global BAcc:               0.8679
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+Class1                       0.8018    0.9496    0.9980    0.6056   503/504      43/71   
+Class2                       0.9320    0.9513    0.9593    0.9048   471/491      76/84   
+Class3                       0.9762    0.9930    1.0000    0.9524   491/491      80/84   
+Class4                       0.7930    0.9270    0.9684    0.6176   491/507      42/68   
+Class5                       0.7615    0.9322    0.9980    0.5250   494/495      42/80   
+Class6                       0.6333    0.9130    0.9980    0.2687   507/508      18/67   
+Class7                       0.9572    0.9748    0.9810    0.9333   981/1000    140/150  
+Class8                       0.9700    0.9922    1.0000    0.9400  1000/1000    141/150  
+Class9                       0.9252    0.9783    0.9970    0.8533   997/1000    128/150  
+Class10                      0.7505    0.5661    0.5010    1.0000   501/1000    150/150  
+------------------------------------------------------------------------------------------
+Macro Average                0.8501
+
+
+Error Cases (first 20):
+  Total errors: 754
+    1. Class1/test/good/0168.PNG
+       true=0  pred=1  response: <think>Upon examining the image, I observe a dense, symmetrical pattern that appears to be a form of noise or texture, p
+    2. Class1/test/defect/0345.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a dense, regular pattern consistent with a woven or mesh structure, likely fa
+    3. Class1/test/defect/0467.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, repeating pattern composed of small white dots on a dark backgroun
+    4. Class1/test/defect/0121.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a dense, symmetrical pattern that appears to be a textile or woven material. 
+    5. Class1/test/defect/0381.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform background with fine, random texturing consistent with a typical in
+    6. Class1/test/defect/0380.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, granular texture that is consistent throughout, resembling a fine 
+    7. Class1/test/defect/0041.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, grid-like pattern that appears to be a digital texture or surface,
+    8. Class1/test/defect/0283.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, fine-textured surface with a consistent dot-matrix pattern that ap
+    9. Class1/test/defect/0146.PNG
+       true=1  pred=0  response: <think>Upon examining the image, the entire surface appears to be covered in a uniform, tightly packed pattern consisten
+   10. Class1/test/defect/0240.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, geometric pattern resembling a woven or tiled surface, which i
+   11. Class1/test/defect/0480.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, fine-textured background that appears to be a woven or mesh materi
+   12. Class1/test/defect/0528.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform surface with a fine, regular texture composed of evenly spaced dots
+   13. Class1/test/defect/0548.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, fine-textured surface that appears consistent across the entire vi
+   14. Class1/test/defect/0180.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, repeating pattern composed of fine lines and dots that create a co
+   15. Class1/test/defect/0504.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a tightly woven, symmetrical pattern typical of a textile or fabric surface. 
+   16. Class1/test/defect/0556.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, granular texture across the surface, which is typical of a process
+   17. Class1/test/defect/0272.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, highly textured surface with a consistent pattern across the entir
+   18. Class1/test/defect/0361.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, granular texture across the surface, which is characteristic of a 
+   19. Class1/test/defect/0421.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, repeating pattern typical of a textile or surface texture. The
+   20. Class1/test/defect/0430.PNG
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, granular texture that is consistent throughout, suggesting a typic

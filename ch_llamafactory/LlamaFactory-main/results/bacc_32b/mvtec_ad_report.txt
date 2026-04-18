@@ -1,0 +1,73 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              1725
+  Correct predictions:       1406
+  Macro BAcc:                0.8132
+  Global BAcc:               0.7918
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+bottle                       0.8603    0.8916    0.8000    0.9206    16/20       58/63   
+cable                        0.8469    0.8200    0.9655    0.7283    56/58       67/92   
+capsule                      0.7982    0.6667    1.0000    0.5963    23/23       65/109  
+carpet                       0.9643    0.9829    0.9286    1.0000    26/28       89/89   
+grid                         0.9674    0.9744    0.9524    0.9825    20/21       56/57   
+hazelnut                     0.9875    0.9909    0.9750    1.0000    39/40       70/70   
+leather                      0.9735    0.9758    0.9688    0.9783    31/32       90/92   
+metal_nut                    0.6711    0.8609    0.3636    0.9785     8/22       91/93   
+pill                         0.4944    0.8084    0.0385    0.9504     1/26      134/141  
+screw                        0.7579    0.6875    0.9024    0.6134    37/41       73/119  
+tile                         0.9491    0.9402    0.9697    0.9286    32/33       78/84   
+toothbrush                   0.6917    0.8095    0.4167    0.9667     5/12       29/30   
+transistor                   0.4958    0.4000    0.0167    0.9750     1/60       39/40   
+wood                         0.9667    0.9494    1.0000    0.9333    19/19       56/60   
+zipper                       0.7731    0.6424    1.0000    0.5462    32/32       65/119  
+------------------------------------------------------------------------------------------
+Macro Average                0.8132
+
+
+Error Cases (first 20):
+  Total errors: 319
+    1. bottle/test/contamination/020.png
+       true=1  pred=0  response: normal
+    2. bottle/test/contamination/003.png
+       true=1  pred=0  response: normal
+    3. bottle/test/contamination/016.png
+       true=1  pred=0  response: normal
+    4. bottle/test/contamination/013.png
+       true=1  pred=0  response: normal
+    5. bottle/test/contamination/019.png
+       true=1  pred=0  response: normal
+    6. bottle/test/good/015.png
+       true=0  pred=1  response: abnormal
+    7. bottle/test/good/019.png
+       true=0  pred=1  response: abnormal
+    8. bottle/test/good/001.png
+       true=0  pred=1  response: abnormal
+    9. bottle/test/good/014.png
+       true=0  pred=1  response: abnormal
+   10. cable/test/bent_wire/008.png
+       true=1  pred=0  response: normal
+   11. cable/test/missing_cable/004.png
+       true=1  pred=0  response: normal
+   12. cable/test/missing_cable/010.png
+       true=1  pred=0  response: normal
+   13. cable/test/missing_cable/000.png
+       true=1  pred=0  response: normal
+   14. cable/test/missing_cable/001.png
+       true=1  pred=0  response: normal
+   15. cable/test/good/015.png
+       true=0  pred=1  response: abnormal
+   16. cable/test/good/033.png
+       true=0  pred=1  response: abnormal
+   17. cable/test/missing_wire/009.png
+       true=1  pred=0  response: normal
+   18. cable/test/missing_wire/007.png
+       true=1  pred=0  response: normal
+   19. cable/test/cut_outer_insulation/002.png
+       true=1  pred=0  response: normal
+   20. cable/test/cut_outer_insulation/008.png
+       true=1  pred=0  response: normal

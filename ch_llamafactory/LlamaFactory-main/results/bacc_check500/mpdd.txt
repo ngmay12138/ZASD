@@ -1,0 +1,64 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              458
+  Correct predictions:       308
+  Macro BAcc:                0.6527
+  Global BAcc:               0.6977
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+bracket_black                0.6333    0.5696    0.9688    0.2979    31/32       14/47   
+bracket_brown                0.5102    0.3636    0.9615    0.0588    25/26        3/51   
+bracket_white                0.7500    0.7500    0.9333    0.5667    28/30       17/30   
+connector                    0.5952    0.6818    0.8333    0.3571    25/30        5/14   
+metal_plate                  0.4347    0.6186    0.0385    0.8310     1/26       59/71   
+tubes                        0.9928    0.9901    1.0000    0.9855    32/32       68/69   
+------------------------------------------------------------------------------------------
+Macro Average                0.6527
+
+
+Error Cases (first 20):
+  Total errors: 150
+    1. bracket_black/test/good/023.png
+       true=0  pred=1  response: <description>Small crack on the black object near the middle section</description><think>Upon comparing the original ima
+    2. bracket_black/test/hole/002.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard industrial component, possibly a metal bracket or c
+    3. bracket_black/test/hole/003.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket, likely used for mounting or securing
+    4. bracket_black/test/hole/000.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard industrial component, likely a metal bracket or sup
+    5. bracket_black/test/hole/005.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard industrial component, likely a metal bracket or sup
+    6. bracket_black/test/hole/007.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket, likely used for mounting or securing
+    7. bracket_black/test/hole/006.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket or mounting component, likely used fo
+    8. bracket_black/test/hole/011.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket, likely used for mounting or securing
+    9. bracket_black/test/hole/008.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket, likely used for mounting or securing
+   10. bracket_black/test/hole/001.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard industrial component, possibly a metal bracket or c
+   11. bracket_black/test/hole/004.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal hook with a decorative, ornamental design. Th
+   12. bracket_black/test/scratches/032.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard wrought iron bracket, likely used for hanging or su
+   13. bracket_black/test/scratches/023.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard industrial component, likely a part of a mechanical
+   14. bracket_black/test/scratches/014.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket, likely used for mounting or securing
+   15. bracket_black/test/scratches/022.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard industrial component, possibly a part of a mechanic
+   16. bracket_black/test/scratches/030.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard wrought iron bracket, likely used for hanging or su
+   17. bracket_black/test/scratches/029.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket with a consistent, symmetrical desi
+   18. bracket_black/test/scratches/000.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket with a consistent black finish and 
+   19. bracket_black/test/scratches/024.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket, likely used for mounting or securing
+   20. bracket_black/test/scratches/006.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket or mounting frame with a consistent m

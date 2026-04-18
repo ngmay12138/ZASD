@@ -1,0 +1,70 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              2162
+  Correct predictions:       1639
+  Macro BAcc:                0.7815
+  Global BAcc:               0.7729
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+candle                       0.8450    0.8450    0.8800    0.8100    88/100      81/100  
+capsules                     0.8067    0.7625    0.9833    0.6300    59/60       63/100  
+cashew                       0.7250    0.6400    0.9800    0.4700    49/50       47/100  
+chewinggum                   0.9650    0.9533    1.0000    0.9300    50/50       93/100  
+fryum                        0.8850    0.8467    1.0000    0.7700    50/50       77/100  
+macaroni1                    0.7750    0.7750    0.9700    0.5800    97/100      58/100  
+macaroni2                    0.7100    0.7100    0.6000    0.8200    60/100      82/100  
+pcb1                         0.6750    0.6750    0.9800    0.3700    98/100      37/100  
+pcb2                         0.7700    0.7700    0.9200    0.6200    92/100      62/100  
+pcb3                         0.5660    0.5672    0.7921    0.3400    80/101      34/100  
+pcb4                         0.7100    0.7114    0.9901    0.4300   100/101      43/100  
+pipe_fryum                   0.9450    0.9267    1.0000    0.8900    50/50       89/100  
+------------------------------------------------------------------------------------------
+Macro Average                0.7815
+
+
+Error Cases (first 20):
+  Total errors: 523
+    1. candle/test/good/0514.JPG
+       true=0  pred=1  response: <description>Small irregular mark on bottom-left object surface</description><think>Upon comparing the first image with 
+    2. candle/test/good/0751.JPG
+       true=0  pred=1  response: <description>Small white spot on lower-left object surface</description><think>Upon comparing the original image with th
+    3. candle/test/good/0261.JPG
+       true=0  pred=1  response: <description>Small irregular mark on bottom-left candle surface</description><think>Upon comparing the first image with 
+    4. candle/test/good/0215.JPG
+       true=0  pred=1  response: <description>Small irregular mark on top-right candle's surface</description><think>Upon comparing the first image with 
+    5. candle/test/good/0377.JPG
+       true=0  pred=1  response: <description>Small irregular white mark on bottom-right object surface</description><think>Upon comparing the original i
+    6. candle/test/good/0631.JPG
+       true=0  pred=1  response: <description>Small dark spot on bottom-left candle surface</description><think>Upon comparing the first image (four iden
+    7. candle/test/good/0654.JPG
+       true=0  pred=1  response: <description>Small dark spot on top-right object's surface</description><think>Upon comparing the original image with th
+    8. candle/test/good/0107.JPG
+       true=0  pred=1  response: <description>Small dark spot near top-left object</description><think>Upon comparing the original image with the defect 
+    9. candle/test/good/0688.JPG
+       true=0  pred=1  response: <description>Small dark speck near center of image</description><think>Upon comparing the original image with the defect
+   10. candle/test/good/0953.JPG
+       true=0  pred=1  response: <description>Small irregular mark on bottom-right candle's surface</description><think>Upon comparing the first image wi
+   11. candle/test/good/0755.JPG
+       true=0  pred=1  response: <description>Small crack on top-left candle surface</description><think>Upon comparing the first image with the defect m
+   12. candle/test/good/0174.JPG
+       true=0  pred=1  response: <description>Small white irregular mark on lower-left object surface</description><think>Upon comparing the original ima
+   13. candle/test/bad/039.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects are identical in shape, size, and surface texture. Each
+   14. candle/test/bad/037.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects are identical in shape, size, and surface texture. Each
+   15. candle/test/bad/095.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects are identical in shape, size, and structure. Each objec
+   16. candle/test/bad/019.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects appear to be identical in shape, size, and surface text
+   17. candle/test/bad/015.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects appear to be identical in shape, size, and structure. E
+   18. candle/test/bad/062.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects are circular with a consistent, symmetrical design. The
+   19. candle/test/bad/036.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects arranged in a 2x2 grid. Each object has a smo
+   20. candle/test/bad/069.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects are identical in shape, size, and structure. Each objec

@@ -1,0 +1,64 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              458
+  Correct predictions:       308
+  Macro BAcc:                0.6519
+  Global BAcc:               0.6977
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+bracket_black                0.6709    0.6203    0.9375    0.4043    30/32       19/47   
+bracket_brown                0.5200    0.3766    0.9615    0.0784    25/26        4/51   
+bracket_white                0.7833    0.7833    1.0000    0.5667    30/30       17/30   
+connector                    0.5262    0.6136    0.7667    0.2857    23/30        4/14   
+metal_plate                  0.4328    0.5979    0.0769    0.7887     2/26       56/71   
+tubes                        0.9783    0.9703    1.0000    0.9565    32/32       66/69   
+------------------------------------------------------------------------------------------
+Macro Average                0.6519
+
+
+Error Cases (first 20):
+  Total errors: 150
+    1. bracket_black/test/good/023.png
+       true=0  pred=1  response: <description>Missing or broken link in the central section of the black chain</description><think>Upon comparing the ori
+    2. bracket_black/test/good/011.png
+       true=0  pred=1  response: <description>Wire hook bent and misaligned at top</description><think>The defect mask highlights the top portion of the 
+    3. bracket_black/test/hole/000.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a custom-made metal bracket or stand, likely used for hanging 
+    4. bracket_black/test/hole/001.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket or mounting frame, likely used for se
+    5. bracket_black/test/hole/006.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal bracket or hanger, likely used for mounting o
+    6. bracket_black/test/hole/010.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket or scrollwork element, likely used 
+    7. bracket_black/test/hole/003.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket, likely made of wrought or cast met
+    8. bracket_black/test/hole/005.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a custom-made metal bracket or holder with a functional, repea
+    9. bracket_black/test/hole/011.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a custom-made metal bracket or support structure, likely used 
+   10. bracket_black/test/hole/009.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket or scrollwork element, likely used 
+   11. bracket_black/test/hole/004.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard metal hook, likely made of iron or steel, with a bl
+   12. bracket_black/test/scratches/030.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard decorative metal bracket, likely used for hanging i
+   13. bracket_black/test/scratches/012.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket, likely made of iron or black-paint
+   14. bracket_black/test/scratches/032.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket with a flowing, organic design. The
+   15. bracket_black/test/scratches/009.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a custom-made metal bracket or hanging fixture, likely used fo
+   16. bracket_black/test/scratches/026.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket, likely made of iron or steel, with
+   17. bracket_black/test/scratches/013.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard decorative metal bracket, likely used for hanging i
+   18. bracket_black/test/scratches/027.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a decorative metal bracket, likely used for hanging items. It 
+   19. bracket_black/test/scratches/023.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard industrial or decorative hook, likely made of metal
+   20. bracket_black/test/scratches/024.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard industrial or decorative metal bracket, likely used

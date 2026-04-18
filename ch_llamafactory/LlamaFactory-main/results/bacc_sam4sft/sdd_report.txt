@@ -1,0 +1,59 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              399
+  Correct predictions:       348
+  Macro BAcc:                0.8693
+  Global BAcc:               0.8693
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+kolektor                     0.8693    0.8722    0.8732    0.8654   303/347      45/52   
+------------------------------------------------------------------------------------------
+Macro Average                0.8693
+
+
+Error Cases (first 20):
+  Total errors: 51
+    1. kolektor/test/good/kos19_Part1.jpg
+       true=0  pred=1  response: <description>Vertical line defect on left side</description><think>The defect mask highlights a narrow, vertical region 
+    2. kolektor/test/good/kos10_Part6.jpg
+       true=0  pred=1  response: <description>White curved scratch on lower left surface</description><think>The defect mask highlights a single, thin, c
+    3. kolektor/test/good/kos29_Part4.jpg
+       true=0  pred=1  response: <description>Single dark horizontal strip near center</description><think>Upon comparing the original image with the def
+    4. kolektor/test/good/kos04_Part1.jpg
+       true=0  pred=1  response: <description>Left vertical edge defect with white void</description><think>The defect mask highlights a vertical region 
+    5. kolektor/test/good/kos48_Part4.jpg
+       true=0  pred=1  response: <description>Small white spot on lower-left area</description><think>The original image is a textured gray-scale map, li
+    6. kolektor/test/good/kos17_Part3.jpg
+       true=0  pred=1  response: <description>Irregular white boundary on left side of object</description><think>The defect mask highlights a small, irr
+    7. kolektor/test/good/kos14_Part4.jpg
+       true=0  pred=1  response: <description>Left vertical edge defect</description><think>The defect mask highlights a narrow, vertical region on the l
+    8. kolektor/test/good/kos19_Part2.jpg
+       true=0  pred=1  response: <description>Horizontal crack near center of the composite material</description><think>Upon examining the original imag
+    9. kolektor/test/good/kos45_Part0.jpg
+       true=0  pred=1  response: <description>Small dark spot at bottom edge</description><think>Upon comparing the original image with the defect mask, 
+   10. kolektor/test/good/kos18_Part0.jpg
+       true=0  pred=1  response: <description>Vertical crack on left edge of image</description><think>The defect mask highlights a narrow, vertical whit
+   11. kolektor/test/good/kos44_Part3.jpg
+       true=0  pred=1  response: <description>Curved white thread-like defect near center</description><think>The original image shows a granular, speckl
+   12. kolektor/test/good/kos49_Part7.jpg
+       true=0  pred=1  response: <description>Vertical white line on right edge, likely crack or defect</description><think>The defect mask highlights a 
+   13. kolektor/test/good/kos14_Part0.jpg
+       true=0  pred=1  response: <description>Left vertical edge defect</description><think>The defect mask highlights a narrow, vertical region on the l
+   14. kolektor/test/good/kos14_Part2.jpg
+       true=0  pred=1  response: <description>Left vertical edge defect with dark shadow</description><think>The defect mask highlights a narrow, vertica
+   15. kolektor/test/good/kos16_Part0.jpg
+       true=0  pred=1  response: <description>Left vertical white strip anomaly</description><think>The defect mask highlights a narrow, vertical white r
+   16. kolektor/test/good/kos42_Part4.jpg
+       true=0  pred=1  response: <description>Small white curved line near center</description><think>Upon examining the original image, it appears to be
+   17. kolektor/test/good/kos12_Part3.jpg
+       true=0  pred=1  response: <description>Irregular white edge on left side of object</description><think>The defect mask highlights a small, irregul
+   18. kolektor/test/good/kos12_Part2.jpg
+       true=0  pred=1  response: <description>Left vertical edge defect with irregular white boundary</description><think>The defect mask highlights a na
+   19. kolektor/test/good/kos30_Part7.jpg
+       true=0  pred=1  response: <description>Curved white line at bottom, suggesting crack or deformation</description><think>The defect mask highlights
+   20. kolektor/test/good/kos15_Part6.jpg
+       true=0  pred=1  response: <description>Vertical crack on left edge of object</description><think>The defect mask highlights a narrow, vertical whi

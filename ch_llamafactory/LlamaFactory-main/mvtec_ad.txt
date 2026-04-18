@@ -1,0 +1,158 @@
+============================================================
+MVTec AD数据集异常检测报告
+============================================================
+
+总体统计:
+  总图片数: 1725
+  正确预测数: 1485
+  准确率: 0.8609
+
+各类别统计:
+  bottle:
+    图片数: 83
+    正确数: 65
+    准确率: 0.7831
+
+  cable:
+    图片数: 150
+    正确数: 92
+    准确率: 0.6133
+
+  capsule:
+    图片数: 132
+    正确数: 108
+    准确率: 0.8182
+
+  carpet:
+    图片数: 117
+    正确数: 111
+    准确率: 0.9487
+
+  grid:
+    图片数: 78
+    正确数: 76
+    准确率: 0.9744
+
+  hazelnut:
+    图片数: 110
+    正确数: 109
+    准确率: 0.9909
+
+  leather:
+    图片数: 124
+    正确数: 122
+    准确率: 0.9839
+
+  metal_nut:
+    图片数: 115
+    正确数: 90
+    准确率: 0.7826
+
+  pill:
+    图片数: 167
+    正确数: 132
+    准确率: 0.7904
+
+  screw:
+    图片数: 160
+    正确数: 137
+    准确率: 0.8562
+
+  tile:
+    图片数: 117
+    正确数: 114
+    准确率: 0.9744
+
+  toothbrush:
+    图片数: 42
+    正确数: 32
+    准确率: 0.7619
+
+  transistor:
+    图片数: 100
+    正确数: 82
+    准确率: 0.8200
+
+  wood:
+    图片数: 79
+    正确数: 79
+    准确率: 1.0000
+
+  zipper:
+    图片数: 151
+    正确数: 136
+    准确率: 0.9007
+
+错误案例分析:
+  总错误数: 240
+  前10个错误案例:
+    1. bottle/test/contamination/009.png
+       真实标签: 1, 预测标签: 0
+       模型回答: </think>
+
+</think>
+
+<description>The image shows a circular object with a dark, textured surface, likely a lens or aperture. The object has a central depression or hole and is surrounded by a ring of light-colored, reflective material. The overall structure appears symmetrical and well-defined, with no visible cracks, deformations, or irregularities.</description><analysis>The object is consistent with a standard lens or aperture design, where the central depression is typically used for focusing light, and the surrounding reflective ring is a common feature for securing the object. The material and finish are uniform, and there are no signs of damage, misalignment, or manufacturing defects. The lighting and shadows are consistent with a typical top-down photograph, and the object is clearly in focus. All observed characteristics align with normal, functional hardware.</analysis><answer>normal</answer>
+    2. bottle/test/contamination/011.png
+       真实标签: 1, 预测标签: 0
+       模型回答: </think>
+
+</think>
+
+<description>The image shows a close-up of a dark, circular object with a textured surface, likely a lens or aperture. The object is surrounded by a dark, ridged ring that appears to be a protective or structural element. The background is a uniform white surface, and the object is centered and clearly visible. The lighting is even, and there are no visible cracks, deformations, or irregularities in the object’s structure.</description><analysis>The object appears to be a standard lens or aperture, commonly used in photography or optical systems. The presence of a circular opening with a dark rim and the surrounding texture are typical features of such components. The uniform white background and clear focus indicate a standard product photograph, and there are no signs of damage, misalignment, or manufacturing defects. The object’s shape, surface texture, and structure are consistent with normal design and function. Therefore, no anomaly is present.</analysis><answer>normal</answer>
+    3. bottle/test/contamination/004.png
+       真实标签: 1, 预测标签: 0
+       模型回答: </think>
+
+</think>
+
+<description>The image shows a close-up of a dark, circular object with a glossy, reflective surface, likely a piece of jewelry or a small container. The object is encased in a dark, textured ring that appears to be a protective or decorative element. The surface has natural variations in color and reflectivity, with no visible cracks, discolorations, or irregular patterns.</description><analysis>The object exhibits typical characteristics of a natural or engineered item such as a ring, a container, or a piece of decorative hardware. The reflective surface, the dark interior, and the surrounding textured ring are consistent with common materials used in such products. There are no signs of damage, deformation, or unexpected features that would indicate a defect or anomaly. The lighting and shadows are uniform, suggesting a clean, well-lit photograph without artifacts. All observed features align with normal manufacturing or design standards for this type of object.</analysis><answer>normal</answer>
+    4. bottle/test/contamination/016.png
+       真实标签: 1, 预测标签: 0
+       模型回答: <think>
+
+</think>
+
+<description>The image shows a close-up of a dark, circular object with a smooth, glossy surface, likely a droplet or residue on a surface. The object is surrounded by a dark, textured ring that appears to be a cap or seal. The background is a uniform white, and there are no visible cracks, discolorations, or irregular patterns.</description><analysis>The object appears to be a natural droplet or contaminant on a surface, which is typical in many industrial or environmental contexts. The smooth, glossy appearance and the presence of a ring cap suggest it is intact and properly formed. There are no signs of damage, deformation, or unexpected features that would indicate an anomaly. The uniform white background and clear focus indicate a standard photographic setup, which is commonly used for such objects. All observed characteristics align with normal, expected appearance for a droplet or residue.</analysis><answer>normal</answer>
+    5. bottle/test/contamination/020.png
+       真实标签: 1, 预测标签: 0
+       模型回答: <think>
+
+</think>
+
+<description>The image shows a close-up of a brown, circular object with a smooth, slightly textured surface, likely a droplet or residue on a dark, glossy surface. The object has a uniform color and no visible cracks, deformations, or irregular patterns. The surrounding surface appears to be intact and consistent in texture and color, with no signs of damage or contamination.</description><analysis>The object is a natural droplet or residue on a surface, which is typical in materials like glass, plastic, or metal. The uniformity in shape, color, and texture indicates a consistent liquid or solid state, with no signs of evaporation, contamination, or structural defects. The surface appears to be clean and undamaged, which is expected for such an object. There are no abrupt changes in color, texture, or form that would suggest an anomaly. Therefore, the object is normal.</analysis><answer>normal</answer>
+    6. bottle/test/good/015.png
+       真实标签: 0, 预测标签: 1
+       模型回答: <think>
+
+</think>
+
+<description>The image shows a close-up of a dark, circular object with a textured, rough surface, likely a droplet or residue on a surface. The object is surrounded by a translucent, irregular ring with a glossy, reflective edge, suggesting a liquid droplet or foreign material. The background is a plain, uniform white surface, and the object appears to be embedded or resting on it.</description><analysis>The object is abnormal because it is a liquid droplet or foreign material that does not belong to the surface. The presence of such a droplet indicates contamination, moisture damage, or a defect in the material's integrity. The reflective ring around it suggests it is likely trapped or has been applied to the surface, which is inconsistent with the otherwise clean and uniform appearance of the surface. This deviation from the expected state of the surface constitutes an anomaly.</analysis><location>Center of the image, slightly offset toward the lower right quadrant</location><answer>abnormal</answer>
+    7. bottle/test/good/003.png
+       真实标签: 0, 预测标签: 1
+       模型回答: <think>
+
+</think>
+
+<description>The image shows a close-up of a dark, circular object with a glossy, reflective surface, likely a piece of jewelry or a small container. The object is surrounded by a ring of bright, irregularly shaped light or highlights, which contrasts sharply with the uniform dark background. The surface appears smooth and intact, with no visible cracks, discoloration, or deformities.</description><analysis>The object exhibits a distinct and unnatural level of reflectivity and brightness, which is inconsistent with the typical appearance of a standard dark object. The ring of light around the circle suggests an external source, such as a flash or a light bulb, which is not part of the object’s natural structure. This indicates a potential defect, such as an unintended exposure to light, contamination, or damage from handling or manufacturing, making it abnormal.</analysis><location>Center of the image, encircling the circular object</location><answer>abnormal</answer>
+    8. bottle/test/good/014.png
+       真实标签: 0, 预测标签: 1
+       模型回答: <think>
+
+</think>
+
+<description>The image shows a close-up of a dark, circular object with a glossy, reflective surface, surrounded by a textured, possibly metallic or plastic ring. The object appears to be a small, dome-shaped item, such as a piece of debris, a drop of liquid, or a foreign material, resting on a plain white background. The lighting is even, and the object is centered and clearly visible.</description><analysis>The object is an anomaly because it does not match the uniform, smooth, and glossy appearance of the surrounding ring. Its distinct dome shape, reflective surface, and the presence of a small gap or protrusion suggest it is a foreign material or contaminant, which is inconsistent with the otherwise smooth and intact structure. This indicates a defect such as contamination, debris, or damage to the surface</analysis><location>Center of the image, slightly offset toward the lower right quadrant</location><answer>abnormal</answer>
+    9. bottle/test/good/002.png
+       真实标签: 0, 预测标签: 1
+       模型回答: <think>
+
+</think>
+
+<description>The image shows a circular object with a dark, textured interior, surrounded by a translucent ring with a glossy, reflective surface. The ring appears to be made of a material like plastic or glass, with consistent, evenly spaced ridges. The center of the object is a solid, dark, circular void with no visible contents or structure.</description><analysis>The object is an anomaly because the central region is a hollow, empty black void, lacking any discernible structure, object, or functional feature. The surrounding ring is uniform and intact, suggesting a manufactured or engineered surface, but the absence of a solid, internal core indicates a defect or damage. This could be a failure in a manufacturing process, such as an incomplete cavity or misalignment of components, or a physical damage where the object was crushed or deformed. The lack of any internal structure makes it non-compliant with typical design or functional requirements for such an object.</analysis><location>Center of the circular object</location><answer>abnormal</answer>
+    10. bottle/test/good/006.png
+       真实标签: 0, 预测标签: 1
+       模型回答: <think>
+
+</think>
+
+<description>The image shows a close-up of a dark, circular object with a textured surface, likely a piece of debris or a small container. The object is surrounded by a ring of bright, irregularly shaped light, which contrasts sharply with the dark interior. The surface appears to have a rough, uneven texture with some areas appearing slightly raised or worn, particularly the outer ring.</description><analysis>The object appears to be a foreign material or container, such as a drop of liquid, a piece of solid debris, or a small electronic component. The bright ring around the dark interior is inconsistent with the uniform dark surface and suggests a possible defect such as a crack, discoloration, or contamination. The rough texture and irregular edges indicate physical damage or wear, which is not typical for a pristine or properly manufactured item. This suggests an anomaly in either the object’s structure, appearance, or context.</analysis><location>Center of the image, encircling the dark circular object</location><answer>abnormal</answer>

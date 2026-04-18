@@ -1,0 +1,61 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              741
+  Correct predictions:       517
+  Macro BAcc:                0.7353
+  Global BAcc:               0.6279
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+01                           0.8571    0.8000    1.0000    0.7143    21/21       35/49   
+02                           0.5725    0.2565    1.0000    0.1450    30/30       29/200  
+03                           0.7761    0.9116    0.9425    0.6098   377/400      25/41   
+------------------------------------------------------------------------------------------
+Macro Average                0.7353
+
+
+Error Cases (first 20):
+  Total errors: 224
+    1. 01/test/ko/0007.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric circular pattern with consistent color gradation an
+    2. 01/test/ko/0046.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric circular pattern with consistent spacing and smooth
+    3. 01/test/ko/0038.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric ring structure with consistent spacing and uniform 
+    4. 01/test/ko/0002.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric circular pattern with consistent spacing between th
+    5. 01/test/ko/0011.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric circular pattern with consistent spacing between th
+    6. 01/test/ko/0013.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric circular pattern with consistent spacing between th
+    7. 01/test/ko/0010.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric ring structure with consistent color gradients (yel
+    8. 01/test/ko/0033.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric ring structure that appears to be a standard, well-
+    9. 01/test/ko/0016.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric circular pattern with consistent texture and color 
+   10. 01/test/ko/0020.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric ring structure with consistent spacing and smooth t
+   11. 01/test/ko/0031.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric circular pattern with consistent spacing and unifor
+   12. 01/test/ko/0021.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric circular pattern with consistent line thickness and
+   13. 01/test/ko/0017.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric ring structure with consistent spacing and smooth t
+   14. 01/test/ko/0030.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a symmetrical, concentric ring structure with consistent spacing and smooth t
+   15. 02/test/ko/0058.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a close-up of a material surface, likely wood or a composite, with visible gr
+   16. 02/test/ko/0025.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a vertical surface with natural, linear texture consistent with wood grain or
+   17. 02/test/ko/0023.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a series of vertical stripes with consistent width and spacing, exhibiting a 
+   18. 02/test/ko/0003.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a vertical surface with a consistent, repeating pattern of fine ridges and gr
+   19. 02/test/ko/0088.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a vertical striped pattern that appears consistent and evenly distributed acr
+   20. 02/test/ko/0176.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a vertical striped pattern that appears consistent and evenly spaced across t

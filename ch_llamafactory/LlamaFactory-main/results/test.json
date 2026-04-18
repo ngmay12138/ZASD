@@ -1,0 +1,4008 @@
+{
+  "test": {
+    "kolektor": [
+      {
+        "img_path": "kolektor/test/good/kos45_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos35_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos19_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos44_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos41_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos03_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos41_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos42_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos42_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos38_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos49_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos42_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos15_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos45_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos04_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos44_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos03_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos12_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos29_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos25_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos21_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos43_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos39_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos12_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos15_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos22_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos13_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos31_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos37_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos15_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos28_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos26_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos33_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos10_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos36_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos13_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos29_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos48_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos23_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos18_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos19_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos49_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos28_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos19_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos27_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos02_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos13_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos33_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos11_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos16_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos20_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos24_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos08_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos33_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos17_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos12_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos08_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos27_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos39_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos04_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos27_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos26_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos45_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos35_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos37_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos23_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos01_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos10_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos24_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos20_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos48_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos17_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos15_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos06_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos32_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos35_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos46_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos25_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos06_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos02_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos37_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos29_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos14_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos45_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos17_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos08_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos47_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos22_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos13_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos16_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos12_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos05_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos18_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos41_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos20_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos01_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos49_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos01_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos13_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos01_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos46_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos18_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos31_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos24_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos36_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos50_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos42_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos32_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos11_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos50_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos06_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos03_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos45_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos30_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos07_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos06_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos44_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos28_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos18_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos21_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos42_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos21_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos08_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos03_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos30_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos33_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos48_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos02_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos10_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos32_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos03_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos02_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos01_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos17_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos28_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos27_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos20_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos34_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos42_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos17_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos05_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos44_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos09_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos48_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos33_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos46_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos48_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos40_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos37_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos01_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos22_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos43_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos32_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos30_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos47_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos29_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos41_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos41_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos49_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos11_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos02_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos33_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos28_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos32_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos09_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos37_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos10_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos21_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos01_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos11_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos50_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos31_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos06_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos34_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos46_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos07_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos17_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos06_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos30_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos40_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos24_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos50_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos39_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos34_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos23_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos40_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos05_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos15_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos25_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos26_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos09_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos17_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos16_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos14_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos26_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos11_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos35_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos41_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos47_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos29_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos22_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos08_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos47_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos10_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos25_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos47_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos43_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos38_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos23_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos26_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos30_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos30_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos40_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos44_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos12_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos14_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos14_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos05_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos44_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos07_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos40_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos23_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos39_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos38_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos43_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos05_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos09_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos19_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos39_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos49_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos25_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos24_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos36_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos31_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos22_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos14_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos37_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos04_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos03_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos38_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos07_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos27_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos50_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos46_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos04_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos26_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos35_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos36_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos31_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos16_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos23_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos10_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos46_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos30_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos36_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos09_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos10_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos22_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos27_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos09_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos34_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos39_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos07_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos20_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos12_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos04_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos43_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos13_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos19_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos07_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos14_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos24_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos40_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos38_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos35_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos38_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos49_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos02_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos33_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos08_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos34_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos21_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos05_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos28_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos04_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos28_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos16_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos32_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos16_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos12_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos18_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos35_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos21_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos03_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos19_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos11_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos40_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos07_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos37_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos49_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos15_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos24_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos27_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos13_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos15_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos25_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos46_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos08_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos48_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos50_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos31_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos29_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos19_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos34_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos22_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos18_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos11_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos47_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos44_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos36_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos31_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos20_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos45_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos41_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos04_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos36_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos09_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos23_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos50_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos14_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos05_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos25_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos34_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos18_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos06_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos42_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos26_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos48_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos20_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos47_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos29_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos43_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos43_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos45_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos16_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/good/kos02_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/good/kos32_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "good",
+        "true_anomaly": 0,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos42_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos34_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos24_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos09_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos22_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos17_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos50_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/defect/kos07_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos37_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos29_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos20_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos02_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos25_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos11_Part4.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos47_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos38_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos19_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos16_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos36_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos27_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos14_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos41_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos12_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos15_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos31_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos40_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos39_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/defect/kos38_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/defect/kos03_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos43_Part1.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos39_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/defect/kos21_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos48_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos08_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos05_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos28_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos46_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos13_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos33_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/defect/kos01_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos10_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos49_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos06_Part7.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos32_Part2.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos44_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos18_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos35_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      },
+      {
+        "img_path": "kolektor/test/defect/kos23_Part6.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos30_Part0.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos26_Part5.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos04_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 1,
+        "model_response": "abnormal",
+        "correct": true
+      },
+      {
+        "img_path": "kolektor/test/defect/kos45_Part3.jpg",
+        "mask_path": "",
+        "cls_name": "kolektor",
+        "specie_name": "defect",
+        "true_anomaly": 1,
+        "pred_anomaly": 0,
+        "model_response": "normal",
+        "correct": false
+      }
+    ]
+  },
+  "statistics": {
+    "total_images": 399,
+    "correct_predictions": 331,
+    "accuracy": 0.8295739348370927,
+    "class_wise_accuracy": {
+      "kolektor": {
+        "total": 399,
+        "correct": 331,
+        "accuracy": 0.8295739348370927
+      }
+    }
+  }
+}

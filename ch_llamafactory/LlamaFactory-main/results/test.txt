@@ -1,0 +1,47 @@
+============================================================
+============================================================
+
+总体统计:
+  总图片数: 399
+  正确预测数: 331
+  准确率: 0.8296
+
+各类别统计:
+  kolektor:
+    图片数: 399
+    正确数: 331
+    准确率: 0.8296
+
+错误案例分析:
+  总错误数: 68
+  前10个错误案例:
+    1. kolektor/test/good/kos44_Part1.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    2. kolektor/test/good/kos04_Part0.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    3. kolektor/test/good/kos25_Part1.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    4. kolektor/test/good/kos12_Part4.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    5. kolektor/test/good/kos10_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    6. kolektor/test/good/kos23_Part0.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    7. kolektor/test/good/kos18_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    8. kolektor/test/good/kos19_Part6.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    9. kolektor/test/good/kos02_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal
+    10. kolektor/test/good/kos16_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: abnormal

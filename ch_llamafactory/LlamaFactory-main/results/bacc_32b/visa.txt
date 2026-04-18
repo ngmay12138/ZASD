@@ -1,0 +1,70 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              2162
+  Correct predictions:       1655
+  Macro BAcc:                0.7867
+  Global BAcc:               0.7834
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+candle                       0.8200    0.8200    0.9400    0.7000    94/100      70/100  
+capsules                     0.7500    0.6875    1.0000    0.5000    60/60       50/100  
+cashew                       0.6650    0.5533    1.0000    0.3300    50/50       33/100  
+chewinggum                   0.9500    0.9333    1.0000    0.9000    50/50       90/100  
+fryum                        0.8600    0.8467    0.9000    0.8200    45/50       82/100  
+macaroni1                    0.7750    0.7750    0.9900    0.5600    99/100      56/100  
+macaroni2                    0.6650    0.6650    0.6900    0.6400    69/100      64/100  
+pcb1                         0.6450    0.6450    1.0000    0.2900   100/100      29/100  
+pcb2                         0.8250    0.8250    0.9400    0.7100    94/100      71/100  
+pcb3                         0.6400    0.6418    1.0000    0.2800   101/101      28/100  
+pcb4                         0.9251    0.9254    0.9703    0.8800    98/101      88/100  
+pipe_fryum                   0.9200    0.8933    1.0000    0.8400    50/50       84/100  
+------------------------------------------------------------------------------------------
+Macro Average                0.7867
+
+
+Error Cases (first 20):
+  Total errors: 507
+    1. candle/test/good/0648.JPG
+       true=0  pred=1  response: abnormal
+    2. candle/test/good/0107.JPG
+       true=0  pred=1  response: abnormal
+    3. candle/test/good/0751.JPG
+       true=0  pred=1  response: abnormal
+    4. candle/test/good/0261.JPG
+       true=0  pred=1  response: abnormal
+    5. candle/test/good/0518.JPG
+       true=0  pred=1  response: abnormal
+    6. candle/test/good/0953.JPG
+       true=0  pred=1  response: abnormal
+    7. candle/test/bad/099.JPG
+       true=1  pred=0  response: normal
+    8. candle/test/bad/010.JPG
+       true=1  pred=0  response: normal
+    9. candle/test/bad/056.JPG
+       true=1  pred=0  response: normal
+   10. candle/test/bad/036.JPG
+       true=1  pred=0  response: normal
+   11. candle/test/bad/060.JPG
+       true=1  pred=0  response: normal
+   12. candle/test/bad/093.JPG
+       true=1  pred=0  response: normal
+   13. candle/test/bad/058.JPG
+       true=1  pred=0  response: normal
+   14. candle/test/bad/019.JPG
+       true=1  pred=0  response: normal
+   15. candle/test/bad/011.JPG
+       true=1  pred=0  response: normal
+   16. candle/test/bad/055.JPG
+       true=1  pred=0  response: normal
+   17. candle/test/bad/014.JPG
+       true=1  pred=0  response: normal
+   18. candle/test/bad/017.JPG
+       true=1  pred=0  response: normal
+   19. candle/test/bad/037.JPG
+       true=1  pred=0  response: normal
+   20. candle/test/bad/089.JPG
+       true=1  pred=0  response: normal

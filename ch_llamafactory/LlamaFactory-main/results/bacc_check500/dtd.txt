@@ -1,0 +1,70 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              1304
+  Correct predictions:       1148
+  Macro BAcc:                0.9185
+  Global BAcc:               0.9176
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+Blotchy_099                  0.8625    0.7800    1.0000    0.7250    20/20       58/80   
+Fibrous_183                  0.9500    0.9200    1.0000    0.9000    20/20       72/80   
+Marbled_078                  0.8750    0.8000    1.0000    0.7500    20/20       60/80   
+Matted_069                   0.9051    0.8485    1.0000    0.8101    20/20       64/79   
+Mesh_114                     0.7875    0.7069    1.0000    0.5750    36/36       46/80   
+Perforated_037               0.9250    0.8800    1.0000    0.8500    20/20       68/80   
+Stratified_154               0.9375    0.9000    1.0000    0.8750    20/20       70/80   
+Woven_001                    0.9929    0.9900    1.0000    0.9857    30/30       69/70   
+Woven_068                    0.9620    0.9538    1.0000    0.9241    51/51       73/79   
+Woven_104                    0.9250    0.8800    1.0000    0.8500    20/20       68/80   
+Woven_125                    0.9367    0.8990    1.0000    0.8734    20/20       69/79   
+Woven_127                    0.9625    0.9625    1.0000    0.9250    80/80       74/80   
+------------------------------------------------------------------------------------------
+Macro Average                0.9185
+
+
+Error Cases (first 20):
+  Total errors: 156
+    1. Blotchy_099/test/anomaly/dtd-synthetic_bad_000105.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object displays a consistent and smooth surface texture with no visible cracks, dis
+    2. Blotchy_099/test/anomaly/dtd-synthetic_bad_000158.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a simple, straight line with consistent color and thickness, s
+    3. Blotchy_099/test/anomaly/dtd-synthetic_bad_000127.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform surface with a consistent granular texture typical of natural stone
+    4. Blotchy_099/test/anomaly/dtd-synthetic_bad_000168.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the surface exhibits a consistent, natural-looking texture with small, scattered speckl
+    5. Blotchy_099/test/anomaly/dtd-synthetic_bad_000136.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a consistent and uniform surface texture with no visible cracks, discoloratio
+    6. Blotchy_099/test/anomaly/dtd-synthetic_bad_000164.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform surface with a consistent texture and coloration typical of a natur
+    7. Blotchy_099/test/anomaly/dtd-synthetic_bad_000124.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a small, irregularly shaped object with a distinct blue hue. The object appea
+    8. Blotchy_099/test/anomaly/dtd-synthetic_bad_000102.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a simple, well-defined black shape with smooth edges, likely a
+    9. Blotchy_099/test/anomaly/dtd-synthetic_bad_000163.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe two distinct, well-defined circular regions against a textured, neutral backg
+   10. Blotchy_099/test/anomaly/dtd-synthetic_bad_000108.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform surface with a consistent texture and coloration typical of natural
+   11. Blotchy_099/test/anomaly/dtd-synthetic_bad_000110.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object displays a consistent and symmetrical "V" shape with no irregularities in it
+   12. Blotchy_099/test/anomaly/dtd-synthetic_bad_000123.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object exhibits consistent coloration and shape without irregularities such as crac
+   13. Blotchy_099/test/anomaly/dtd-synthetic_bad_000159.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object displays a consistent, smooth, and symmetrical shape with no visible cracks,
+   14. Blotchy_099/test/anomaly/dtd-synthetic_bad_000138.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object displays consistent texture and coloration across its surface, with no visib
+   15. Blotchy_099/test/anomaly/dtd-synthetic_bad_000141.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object displays consistent texture and coloration across its surface, with no visib
+   16. Blotchy_099/test/anomaly/dtd-synthetic_bad_000160.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object displays a consistent and symmetrical shape with no visible cracks, deformat
+   17. Blotchy_099/test/anomaly/dtd-synthetic_bad_000161.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object displays a consistent and smooth curved line against a textured, granular ba
+   18. Blotchy_099/test/anomaly/dtd-synthetic_bad_000125.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a simple, isolated orange blob with no visible cracks, deforma
+   19. Blotchy_099/test/anomaly/dtd-synthetic_bad_000171.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a small, irregularly shaped patch with a uniform blue color an
+   20. Blotchy_099/test/anomaly/dtd-synthetic_bad_000169.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object in question is a distinct, elongated yellow shape set against a textured, gr

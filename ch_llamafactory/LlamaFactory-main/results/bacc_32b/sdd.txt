@@ -1,0 +1,59 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              399
+  Correct predictions:       376
+  Macro BAcc:                0.8688
+  Global BAcc:               0.8688
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+kolektor                     0.8688    0.9424    0.9683    0.7692   336/347      40/52   
+------------------------------------------------------------------------------------------
+Macro Average                0.8688
+
+
+Error Cases (first 20):
+  Total errors: 23
+    1. kolektor/test/good/kos10_Part6.jpg
+       true=0  pred=1  response: abnormal
+    2. kolektor/test/good/kos12_Part3.jpg
+       true=0  pred=1  response: abnormal
+    3. kolektor/test/good/kos16_Part2.jpg
+       true=0  pred=1  response: abnormal
+    4. kolektor/test/good/kos44_Part1.jpg
+       true=0  pred=1  response: abnormal
+    5. kolektor/test/good/kos14_Part2.jpg
+       true=0  pred=1  response: abnormal
+    6. kolektor/test/good/kos26_Part1.jpg
+       true=0  pred=1  response: abnormal
+    7. kolektor/test/good/kos23_Part1.jpg
+       true=0  pred=1  response: abnormal
+    8. kolektor/test/good/kos10_Part7.jpg
+       true=0  pred=1  response: abnormal
+    9. kolektor/test/good/kos17_Part1.jpg
+       true=0  pred=1  response: abnormal
+   10. kolektor/test/good/kos46_Part4.jpg
+       true=0  pred=1  response: abnormal
+   11. kolektor/test/good/kos01_Part1.jpg
+       true=0  pred=1  response: abnormal
+   12. kolektor/test/defect/kos04_Part3.jpg
+       true=1  pred=0  response: normal
+   13. kolektor/test/defect/kos39_Part6.jpg
+       true=1  pred=0  response: normal
+   14. kolektor/test/defect/kos50_Part4.jpg
+       true=1  pred=0  response: normal
+   15. kolektor/test/defect/kos24_Part1.jpg
+       true=1  pred=0  response: normal
+   16. kolektor/test/defect/kos12_Part5.jpg
+       true=1  pred=0  response: normal
+   17. kolektor/test/defect/kos08_Part2.jpg
+       true=1  pred=0  response: normal
+   18. kolektor/test/defect/kos27_Part0.jpg
+       true=1  pred=0  response: normal
+   19. kolektor/test/defect/kos34_Part0.jpg
+       true=1  pred=0  response: normal
+   20. kolektor/test/defect/kos02_Part6.jpg
+       true=1  pred=0  response: normal

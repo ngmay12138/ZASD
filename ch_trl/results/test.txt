@@ -1,0 +1,48 @@
+============================================================
+MVTec AD数据集异常检测报告
+============================================================
+
+总体统计:
+  总图片数: 399
+  正确预测数: 344
+  准确率: 0.8622
+
+各类别统计:
+  kolektor:
+    图片数: 399
+    正确数: 344
+    准确率: 0.8622
+
+错误案例分析:
+  总错误数: 55
+  前10个错误案例:
+    1. kolektor/test/good/kos15_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Left vertical edge defect with high noise</description><think>The defect mask highlights a narrow, vertical region on the left side of the object, which corresponds to a significant anomaly in the original image. This area exhibits extreme noise and graininess, indicating a severe degradation or irregularity in the object's surface. The mask's precise localization confirms this as the primary abnormality, suggesting issues like damage, contamination, or a structural flaw in that specific region.</think><answer>abnormal</answer>
+    2. kolektor/test/good/kos10_Part1.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Vertical white line defect on central region</description><think>The defect mask highlights a narrow, vertical white region against a granular, speckled background, indicating a linear anomaly. This suggests a potential crack, seam, or foreign material intrusion in the object's surface, which is non-compliant with a uniform texture. The mask's precise vertical alignment and isolated nature confirm it as a distinct defect.</think><answer>abnormal</answer>
+    3. kolektor/test/good/kos16_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Left vertical edge defect</description><think>The defect mask highlights a narrow, vertical region on the left side of the object, which corresponds to a structural anomaly. This area appears as a sharp contrast in the original image, suggesting a boundary disruption or material defect, possibly a crack, delamination, or edge damage, which is not present elsewhere in the object's surface.</think><answer>abnormal</answer>
+    4. kolektor/test/good/kos06_Part3.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Small white irregular shape on lower left</description><think>The defect mask highlights a small, irregularly shaped white region in the lower-left area of the original image. This corresponds to a localized anomaly in the otherwise uniform speckled texture, indicating a possible foreign inclusion or surface imperfection.</think><answer>abnormal</answer>
+    5. kolektor/test/good/kos14_Part6.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Vertical white strip on left edge</description><think>The original image shows a textured, gridded surface typical of an ultrasound or similar medical imaging modality. The defect mask highlights a narrow, vertical region on the far left, which corresponds to a bright, vertical white strip in the original image. This strip is inconsistent with the surrounding granular texture and uniform gray scale, indicating a signal artifact or processing anomaly. The mask isolates this specific region, confirming it as the detected defect.</think><answer>abnormal</answer>
+    6. kolektor/test/good/kos04_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Small white irregular spot on left side</description><think>The defect mask highlights a small, irregular white region on the left side of the object, which contrasts with the surrounding granular, speckled texture. This isolated bright spot suggests a localized anomaly such as a foreign particle, void, or surface imperfection, indicating a deviation from the expected uniform appearance of the object.</think><answer>abnormal</answer>
+    7. kolektor/test/good/kos19_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Horizontal crack near center of the composite material</description><think>Upon examining the original image, a distinct linear decrease in pixel density is observed, indicating a fracture or crack. The defect mask confirms this by highlighting a thin, elongated white region parallel to the grain structure, which aligns with the crack's path. This linear anomaly is located centrally in the composite, suggesting a critical failure point that could compromise structural integrity.</think><answer>abnormal</answer>
+    8. kolektor/test/good/kos01_Part1.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Small white linear region near top-center</description><think>The original image shows a granular, textured surface with a small, bright, irregular white spot near the top-center. The defect mask highlights a thin, horizontal white line in the same approximate location. This suggests the anomaly is a localized, linear feature—possibly a crack, delamination, or foreign material—distinct from the surrounding material. The mask isolates this specific region, indicating it is the primary defect of interest.</think><answer>abnormal</answer>
+    9. kolektor/test/good/kos14_Part1.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <think>Upon examining the image, I observe a close-up view of what appears to be a surface texture, possibly from a material like metal, plastic, or semiconductor. The pattern consists of numerous small,随机分布的亮点（darker or lighter spots），均匀地覆盖整个视野。这些亮点没有形成任何明显的、重复的或结构性的排列，如线条、网格、或圆形阵列。它们的分布是随机的，且亮度差异较小，但足以在视觉上产生“颗粒感”或“噪声感”。这种现象在工业领域常被称为“表面缺陷”或“晶界噪声”，可能由材料不均匀、污染、或微小划痕引起。由于缺乏有序结构和无规律的分布，该图像不符合“正常”或“预期”的模式，因此被判定为异常。</think><answer>abnormal</answer>
+    10. kolektor/test/good/kos46_Part2.jpg
+       真实标签: 0, 预测标签: 1
+       模型回答: <description>Left-side anomaly: small white fragment separation</description><think>The defect mask highlights a small, irregular white region on the left edge, indicating a potential separation or fragment of the original object. This is abnormal as it suggests structural damage or incomplete attachment, which is not present on the right side or in the rest of the object.</think><answer>abnormal</answer>

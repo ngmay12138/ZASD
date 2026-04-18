@@ -1,0 +1,70 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              1304
+  Correct predictions:       1162
+  Macro BAcc:                0.9255
+  Global BAcc:               0.9242
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+Blotchy_099                  0.9062    0.8500    1.0000    0.8125    20/20       65/80   
+Fibrous_183                  0.9688    0.9500    1.0000    0.9375    20/20       75/80   
+Marbled_078                  0.9062    0.8500    1.0000    0.8125    20/20       65/80   
+Matted_069                   0.9051    0.8485    1.0000    0.8101    20/20       64/79   
+Mesh_114                     0.8000    0.7241    1.0000    0.6000    36/36       48/80   
+Perforated_037               0.9000    0.8400    1.0000    0.8000    20/20       64/80   
+Stratified_154               0.9500    0.9200    1.0000    0.9000    20/20       72/80   
+Woven_001                    0.9929    0.9900    1.0000    0.9857    30/30       69/70   
+Woven_068                    0.9586    0.9538    0.9804    0.9367    50/51       74/79   
+Woven_104                    0.9250    0.8800    1.0000    0.8500    20/20       68/80   
+Woven_125                    0.9304    0.8889    1.0000    0.8608    20/20       68/79   
+Woven_127                    0.9625    0.9625    1.0000    0.9250    80/80       74/80   
+------------------------------------------------------------------------------------------
+Macro Average                0.9255
+
+
+Error Cases (first 20):
+  Total errors: 142
+    1. Blotchy_099/test/anomaly/dtd-synthetic_bad_000111.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the majority of the surface appears to be a uniform, textured gray material, consistent
+    2. Blotchy_099/test/anomaly/dtd-synthetic_bad_000146.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the surface appears to be a close-up of a material, likely stone or a composite, with a
+    3. Blotchy_099/test/anomaly/dtd-synthetic_bad_000161.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears as a simple, curved line against a textured, speckled background. Th
+    4. Blotchy_099/test/anomaly/dtd-synthetic_bad_000142.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a uniform, textured surface that appears to be a close-up of a material like 
+    5. Blotchy_099/test/anomaly/dtd-synthetic_bad_000100.bmp
+       true=1  pred=0  response: <description>Curved black line on textured gray surface</description><think>The image shows a simple, curved black line 
+    6. Blotchy_099/test/anomaly/dtd-synthetic_bad_000168.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the central hexagonal shape is uniformly formed with consistent line thickness and no i
+    7. Blotchy_099/test/anomaly/dtd-synthetic_bad_000162.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard black plastic clip or fastener, likely used for sec
+    8. Blotchy_099/test/anomaly/dtd-synthetic_bad_000138.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a simple, symmetrical shape—likely a heart or a similar figure
+    9. Blotchy_099/test/anomaly/dtd-synthetic_bad_000102.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a simple, well-defined curved shape—likely a bracket or connec
+   10. Blotchy_099/test/anomaly/dtd-synthetic_bad_000125.bmp
+       true=1  pred=0  response: <description>Single bright orange spot on textured gray surface</description><think>The image shows a simple, isolated o
+   11. Blotchy_099/test/anomaly/dtd-synthetic_bad_000141.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object 'O' appears to be a simple, uniformly shaped black square centered on a text
+   12. Blotchy_099/test/anomaly/dtd-synthetic_bad_000158.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears as a simple, straight, black bar with consistent width and length. T
+   13. Blotchy_099/test/anomaly/dtd-synthetic_bad_000126.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the two green objects appear to be simple, uniform shapes (a circle and a rectangle) se
+   14. Blotchy_099/test/anomaly/dtd-synthetic_bad_000169.bmp
+       true=1  pred=0  response: <description>Diagonal yellow line on textured gray surface</description><think>The image shows a simple diagonal yellow 
+   15. Blotchy_099/test/anomaly/dtd-synthetic_bad_000165.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a close-up of a surface, likely a material such as stone, conc
+   16. Fibrous_183/test/anomaly/dtd-synthetic_bad_000319.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the background consists of a dense, uniform pattern of intersecting lines in a consiste
+   17. Fibrous_183/test/anomaly/dtd-synthetic_bad_000344.bmp
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a small, dark, elongated creature, likely a caterpillar or sim
+   18. Fibrous_183/test/anomaly/dtd-synthetic_bad_000340.bmp
+       true=1  pred=0  response: <p><think>Upon examining the image, I observe a dense, interwoven network of thin, yellowish strands that appear uniform
+   19. Fibrous_183/test/anomaly/dtd-synthetic_bad_000303.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a dense, interwoven network of thin, yellowish fibers that appear uniform in 
+   20. Fibrous_183/test/anomaly/dtd-synthetic_bad_000378.bmp
+       true=1  pred=0  response: <think>Upon examining the image, I observe a dense, uniform web of thin, parallel strands arranged in a consistent diago

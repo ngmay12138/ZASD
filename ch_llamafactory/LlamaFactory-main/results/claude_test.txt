@@ -1,0 +1,126 @@
+============================================================
+============================================================
+
+总体统计:
+  总图片数: 1304
+  正确预测数: 1164
+  准确率: 0.8926
+
+各类别统计:
+  Blotchy_099:
+    图片数: 100
+    正确数: 88
+    准确率: 0.8800
+
+  Fibrous_183:
+    图片数: 100
+    正确数: 94
+    准确率: 0.9400
+
+  Marbled_078:
+    图片数: 100
+    正确数: 89
+    准确率: 0.8900
+
+  Matted_069:
+    图片数: 99
+    正确数: 80
+    准确率: 0.8081
+
+  Mesh_114:
+    图片数: 116
+    正确数: 93
+    准确率: 0.8017
+
+  Perforated_037:
+    图片数: 100
+    正确数: 89
+    准确率: 0.8900
+
+  Stratified_154:
+    图片数: 100
+    正确数: 97
+    准确率: 0.9700
+
+  Woven_001:
+    图片数: 100
+    正确数: 99
+    准确率: 0.9900
+
+  Woven_068:
+    图片数: 130
+    正确数: 105
+    准确率: 0.8077
+
+  Woven_104:
+    图片数: 100
+    正确数: 94
+    准确率: 0.9400
+
+  Woven_125:
+    图片数: 99
+    正确数: 94
+    准确率: 0.9495
+
+  Woven_127:
+    图片数: 160
+    正确数: 142
+    准确率: 0.8875
+
+错误案例分析:
+  总错误数: 140
+  前10个错误案例:
+    1. Blotchy_099/test/anomaly/dtd-synthetic_bad_000121.bmp
+       真实标签: 1, 预测标签: 0
+       模型回答: Looking at the image, I see what appears to be a small screw or fastener lying on a concrete or stone surface. The object appears to be a normal, intact screw with no visible defects, bending, or damage.
+
+<answer>normal</answer>
+    2. Blotchy_099/test/anomaly/dtd-synthetic_bad_000101.bmp
+       真实标签: 1, 预测标签: 0
+       模型回答: The image shows a single piece of elbow macaroni pasta on a stone or concrete surface. The pasta itself appears to have a normal shape, color, and structure consistent with typical dried elbow macaroni.
+
+<answer>normal</answer>
+    3. Blotchy_099/test/anomaly/dtd-synthetic_bad_000137.bmp
+       真实标签: 1, 预测标签: 0
+       模型回答: Looking at the image, I see a small dark object on what appears to be a stone or concrete surface. The object looks like a small insect or caterpillar. It appears to be a normal specimen without any visible abnormalities — its body shape and form seem typical for such a small creature.
+
+<answer>normal</answer>
+    4. Blotchy_099/test/anomaly/dtd-synthetic_bad_000113.bmp
+       真实标签: 1, 预测标签: 0
+       模型回答: Looking at this image, I see what appears to be a concrete or stone surface with a natural, relatively uniform texture. The surface shows typical aggregate patterns and color variations consistent with normal concrete or limestone material.
+
+There is a small blue marking visible, but the surface itself does not exhibit significant cracks, chips, holes, or other structural defects beyond its natural texture.
+
+<answer>normal</answer>
+    5. Blotchy_099/test/anomaly/dtd-synthetic_bad_000165.bmp
+       真实标签: 1, 预测标签: 0
+       模型回答: Looking at this image, it appears to be a stone or tile surface (likely limestone or a similar natural stone). The surface shows typical natural variations including mineral deposits, fossil impressions, and color variations that are characteristic of natural stone.
+
+There are no visible cracks, chips, discolorations, or structural defects that would indicate an abnormality. The patterns and spots are consistent with a normal natural stone surface.
+
+<answer>normal</answer>
+    6. Blotchy_099/test/anomaly/dtd-synthetic_bad_000158.bmp
+       真实标签: 1, 预测标签: 0
+       模型回答: Looking at the image, I see a nail or screw on a stone/concrete surface. The object appears to be straight, intact, and without any visible defects such as bending, breaking, or surface damage.
+
+<answer>normal</answer>
+    7. Blotchy_099/test/anomaly/dtd-synthetic_bad_000168.bmp
+       真实标签: 1, 预测标签: 0
+       模型回答: Looking at the image, I see a stone or concrete surface with a mottled gray texture. The surface appears uniform without any visible cracks, chips, discoloration patches, or other defects that would indicate an abnormality. The texture is consistent with a normal stone or granite tile surface.
+
+<answer>normal</answer>
+    8. Blotchy_099/test/anomaly/dtd-synthetic_bad_000177.bmp
+       真实标签: 1, 预测标签: 0
+       模型回答: The image shows a concrete or stone surface with two small colored objects—a yellow one and a pink one—that appear to be flower petals resting on the ground. There is nothing unusual or abnormal about the scene; these are ordinary petals on a typical surface.
+
+<answer>normal</answer>
+    9. Blotchy_099/test/good/dtd-synthetic_good_000183.bmp
+       真实标签: 0, 预测标签: 1
+       模型回答: Looking at the image, I observe a stone or tile surface with several irregular dark spots, patches, and discolorations scattered across it. These darker blotches appear inconsistent with a uniform, defect-free surface, suggesting surface defects or contamination.
+
+<answer>abnormal</answer>
+    10. Blotchy_099/test/good/dtd-synthetic_good_000198.bmp
+       真实标签: 0, 预测标签: 1
+       模型回答: Looking at this image, which appears to be a stone or tile surface, I can observe irregular dark spots, discoloration patches, and what appear to be surface defects that deviate from a uniform natural stone pattern. These inconsistencies suggest damage, contamination, or manufacturing defects on the surface.
+
+<answer>abnormal</answer>

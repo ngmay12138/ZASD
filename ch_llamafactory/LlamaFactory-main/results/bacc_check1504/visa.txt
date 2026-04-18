@@ -1,0 +1,70 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              2162
+  Correct predictions:       1625
+  Macro BAcc:                0.7756
+  Global BAcc:               0.7699
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+candle                       0.8350    0.8350    0.9600    0.7100    96/100      71/100  
+capsules                     0.8267    0.7875    0.9833    0.6700    59/60       67/100  
+cashew                       0.6800    0.5800    0.9800    0.3800    49/50       38/100  
+chewinggum                   0.9550    0.9400    1.0000    0.9100    50/50       91/100  
+fryum                        0.8850    0.8467    1.0000    0.7700    50/50       77/100  
+macaroni1                    0.7700    0.7700    0.9900    0.5500    99/100      55/100  
+macaroni2                    0.6850    0.6850    0.6900    0.6800    69/100      68/100  
+pcb1                         0.6450    0.6450    0.9900    0.3000    99/100      30/100  
+pcb2                         0.7400    0.7400    0.8900    0.5900    89/100      59/100  
+pcb3                         0.6205    0.6219    0.8911    0.3500    90/101      35/100  
+pcb4                         0.7200    0.7214    0.9901    0.4500   100/101      45/100  
+pipe_fryum                   0.9450    0.9267    1.0000    0.8900    50/50       89/100  
+------------------------------------------------------------------------------------------
+Macro Average                0.7756
+
+
+Error Cases (first 20):
+  Total errors: 537
+    1. candle/test/good/0953.JPG
+       true=0  pred=1  response: <description>Object in bottom-right shows two small holes instead of one</description><think>Upon comparing the original
+    2. candle/test/good/0751.JPG
+       true=0  pred=1  response: <description>Small white spot on bottom-left object surface</description><think>Upon comparing the original image with t
+    3. candle/test/good/0631.JPG
+       true=0  pred=1  response: <description>Small dark spot on lower-left candle surface</description><think>Upon comparing the original image with the
+    4. candle/test/good/0107.JPG
+       true=0  pred=1  response: <description>Small dark spot near top-left candle</description><think>Upon comparing the original image with the defect 
+    5. candle/test/bad/039.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that there are four identical circular objects, likely wax or plastic, arrang
+    6. candle/test/bad/015.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects are identical in shape, size, and structure. Each objec
+    7. candle/test/bad/093.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that there are four identical circular objects, likely candles or wax discs, 
+    8. candle/test/bad/060.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, likely wax discs or components, arranged in 
+    9. candle/test/bad/011.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that there are four identical circular objects, likely tea lights or similar 
+   10. candle/test/bad/053.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, likely tea lights or similar burners, arrang
+   11. candle/test/bad/000.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that there are four identical circular objects, likely tea lights or similar 
+   12. candle/test/bad/035.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, likely tea lights or similar burners, arrang
+   13. candle/test/bad/022.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe that all four objects appear to be standard tealight candles. The shape, size
+   14. candle/test/bad/089.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, likely candles or wax discs, arranged in a 2
+   15. candle/test/bad/069.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, likely tea lights or similar wax products, a
+   16. candle/test/bad/028.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, likely tea lights or similar burners, arrang
+   17. candle/test/bad/036.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, consistent in shape, color, and structure. E
+   18. candle/test/bad/033.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, likely wax discs or components of a candle o
+   19. candle/test/bad/037.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, likely wax or plastic, arranged in a 2x2 gri
+   20. candle/test/bad/031.JPG
+       true=1  pred=0  response: <think>Upon examining the image, I observe four identical circular objects, consistent in shape, color, and surface text

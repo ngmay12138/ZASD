@@ -1,0 +1,70 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              1304
+  Correct predictions:       632
+  Macro BAcc:                0.6466
+  Global BAcc:               0.6452
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+Blotchy_099                  0.7250    0.5600    1.0000    0.4500    20/20       36/80   
+Fibrous_183                  0.5250    0.2400    1.0000    0.0500    20/20        4/80   
+Marbled_078                  0.6625    0.4600    1.0000    0.3250    20/20       26/80   
+Matted_069                   0.5127    0.2222    1.0000    0.0253    20/20        2/79   
+Mesh_114                     0.5125    0.3276    1.0000    0.0250    36/36        2/80   
+Perforated_037               0.6875    0.5000    1.0000    0.3750    20/20       30/80   
+Stratified_154               0.5437    0.2700    1.0000    0.0875    20/20        7/80   
+Woven_001                    0.7929    0.7100    1.0000    0.5857    30/30       41/70   
+Woven_068                    0.6835    0.6154    1.0000    0.3671    51/51       29/79   
+Woven_104                    0.7625    0.6200    1.0000    0.5250    20/20       42/80   
+Woven_125                    0.6076    0.3737    1.0000    0.2152    20/20       17/79   
+Woven_127                    0.7438    0.7438    1.0000    0.4875    80/80       39/80   
+------------------------------------------------------------------------------------------
+Macro Average                0.6466
+
+
+Error Cases (first 20):
+  Total errors: 672
+    1. Blotchy_099/test/anomaly/dtd-synthetic_bad_000128.bmp
+       true=1  pred=0  response: normal
+    2. Blotchy_099/test/anomaly/dtd-synthetic_bad_000177.bmp
+       true=1  pred=0  response: normal
+    3. Blotchy_099/test/anomaly/dtd-synthetic_bad_000147.bmp
+       true=1  pred=0  response: normal
+    4. Blotchy_099/test/anomaly/dtd-synthetic_bad_000142.bmp
+       true=1  pred=0  response: normal
+    5. Blotchy_099/test/anomaly/dtd-synthetic_bad_000162.bmp
+       true=1  pred=0  response: normal
+    6. Blotchy_099/test/anomaly/dtd-synthetic_bad_000129.bmp
+       true=1  pred=0  response: normal
+    7. Blotchy_099/test/anomaly/dtd-synthetic_bad_000102.bmp
+       true=1  pred=0  response: normal
+    8. Blotchy_099/test/anomaly/dtd-synthetic_bad_000137.bmp
+       true=1  pred=0  response: normal
+    9. Blotchy_099/test/anomaly/dtd-synthetic_bad_000127.bmp
+       true=1  pred=0  response: normal
+   10. Blotchy_099/test/anomaly/dtd-synthetic_bad_000179.bmp
+       true=1  pred=0  response: normal
+   11. Blotchy_099/test/anomaly/dtd-synthetic_bad_000100.bmp
+       true=1  pred=0  response: normal
+   12. Blotchy_099/test/anomaly/dtd-synthetic_bad_000149.bmp
+       true=1  pred=0  response: normal
+   13. Blotchy_099/test/anomaly/dtd-synthetic_bad_000104.bmp
+       true=1  pred=0  response: normal
+   14. Blotchy_099/test/anomaly/dtd-synthetic_bad_000168.bmp
+       true=1  pred=0  response: normal
+   15. Blotchy_099/test/anomaly/dtd-synthetic_bad_000146.bmp
+       true=1  pred=0  response: normal
+   16. Blotchy_099/test/anomaly/dtd-synthetic_bad_000115.bmp
+       true=1  pred=0  response: normal
+   17. Blotchy_099/test/anomaly/dtd-synthetic_bad_000101.bmp
+       true=1  pred=0  response: normal
+   18. Blotchy_099/test/anomaly/dtd-synthetic_bad_000173.bmp
+       true=1  pred=0  response: normal
+   19. Blotchy_099/test/anomaly/dtd-synthetic_bad_000143.bmp
+       true=1  pred=0  response: normal
+   20. Blotchy_099/test/anomaly/dtd-synthetic_bad_000105.bmp
+       true=1  pred=0  response: normal

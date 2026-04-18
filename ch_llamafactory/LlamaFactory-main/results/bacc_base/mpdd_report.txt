@@ -1,0 +1,64 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              458
+  Correct predictions:       210
+  Macro BAcc:                0.5338
+  Global BAcc:               0.5571
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+bracket_black                0.5000    0.4051    1.0000    0.0000    32/32        0/47   
+bracket_brown                0.5000    0.3377    1.0000    0.0000    26/26        0/51   
+bracket_white                0.5000    0.5000    1.0000    0.0000    30/30        0/30   
+connector                    0.5000    0.6818    1.0000    0.0000    30/30        0/14   
+metal_plate                  0.7029    0.6186    0.8846    0.5211    23/26       37/71   
+tubes                        0.5000    0.3168    1.0000    0.0000    32/32        0/69   
+------------------------------------------------------------------------------------------
+Macro Average                0.5338
+
+
+Error Cases (first 20):
+  Total errors: 248
+    1. bracket_black/test/hole/007.png
+       true=1  pred=0  response: normal
+    2. bracket_black/test/hole/004.png
+       true=1  pred=0  response: normal
+    3. bracket_black/test/hole/000.png
+       true=1  pred=0  response: normal
+    4. bracket_black/test/hole/006.png
+       true=1  pred=0  response: normal
+    5. bracket_black/test/hole/002.png
+       true=1  pred=0  response: normal
+    6. bracket_black/test/hole/011.png
+       true=1  pred=0  response: normal
+    7. bracket_black/test/hole/009.png
+       true=1  pred=0  response: normal
+    8. bracket_black/test/hole/010.png
+       true=1  pred=0  response: normal
+    9. bracket_black/test/hole/005.png
+       true=1  pred=0  response: normal
+   10. bracket_black/test/hole/001.png
+       true=1  pred=0  response: normal
+   11. bracket_black/test/hole/003.png
+       true=1  pred=0  response: normal
+   12. bracket_black/test/hole/008.png
+       true=1  pred=0  response: normal
+   13. bracket_black/test/scratches/023.png
+       true=1  pred=0  response: normal
+   14. bracket_black/test/scratches/022.png
+       true=1  pred=0  response: normal
+   15. bracket_black/test/scratches/016.png
+       true=1  pred=0  response: normal
+   16. bracket_black/test/scratches/034.png
+       true=1  pred=0  response: normal
+   17. bracket_black/test/scratches/000.png
+       true=1  pred=0  response: normal
+   18. bracket_black/test/scratches/011.png
+       true=1  pred=0  response: normal
+   19. bracket_black/test/scratches/021.png
+       true=1  pred=0  response: normal
+   20. bracket_black/test/scratches/026.png
+       true=1  pred=0  response: normal

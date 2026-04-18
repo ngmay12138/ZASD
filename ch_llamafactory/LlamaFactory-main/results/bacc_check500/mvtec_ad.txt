@@ -1,0 +1,73 @@
+======================================================================
+Anomaly Detection Evaluation Report (Balanced Accuracy)
+======================================================================
+
+Overall:
+  Total images:              1725
+  Correct predictions:       1318
+  Macro BAcc:                0.8306
+  Global BAcc:               0.8180
+
+Category                       BAcc       Acc   NormAcc   AbnoAcc        Norm        Abno
+------------------------------------------------------------------------------------------
+bottle                       0.9024    0.9036    0.9000    0.9048    18/20       57/63   
+cable                        0.6544    0.5800    0.9828    0.3261    57/58       30/92   
+capsule                      0.6847    0.5076    0.9565    0.4128    22/23       45/109  
+carpet                       0.9709    0.9744    0.9643    0.9775    27/28       87/89   
+grid                         0.9198    0.9487    0.8571    0.9825    18/21       56/57   
+hazelnut                     0.9429    0.9545    0.9000    0.9857    36/40       69/70   
+leather                      0.9164    0.9516    0.8438    0.9891    27/32       91/92   
+metal_nut                    0.8011    0.6783    1.0000    0.6022    22/22       56/93   
+pill                         0.7984    0.7126    0.9231    0.6738    24/26       95/141  
+screw                        0.7025    0.5813    0.9512    0.4538    39/41       54/119  
+tile                         0.8241    0.7607    0.9697    0.6786    32/33       57/84   
+toothbrush                   0.9000    0.8571    1.0000    0.8000    12/12       24/30   
+transistor                   0.7125    0.7600    0.9500    0.4750    57/60       19/40   
+wood                         0.9224    0.9367    0.8947    0.9500    17/19       57/60   
+zipper                       0.8061    0.7483    0.9062    0.7059    29/32       84/119  
+------------------------------------------------------------------------------------------
+Macro Average                0.8306
+
+
+Error Cases (first 20):
+  Total errors: 407
+    1. bottle/test/contamination/009.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a consistent and symmetrical pattern with no visible cracks, discolorations, 
+    2. bottle/test/contamination/006.png
+       true=1  pred=0  response: <think>Upon examining the image, the object displays consistent concentric rings with no visible cracks, deformations, o
+    3. bottle/test/contamination/020.png
+       true=1  pred=0  response: <think>Upon examining the image, the object displays consistent coloration and structure throughout the visible area. Th
+    4. bottle/test/contamination/013.png
+       true=1  pred=0  response: <think>Upon examining the image, the object appears to be a standard dark liquid in a container, possibly a bottle or ja
+    5. bottle/test/contamination/016.png
+       true=1  pred=0  response: <think>Upon examining the image, the object displays consistent concentric rings with no irregular shapes, cracks, or di
+    6. bottle/test/good/001.png
+       true=0  pred=1  response: <description>Small white scratch on the lower right rim</description><think>Upon comparing the original image with the d
+    7. bottle/test/good/008.png
+       true=0  pred=1  response: <description>Small white irregular mark on lower right edge</description><think>Upon comparing the original image with t
+    8. bottle/test/broken_large/002.png
+       true=1  pred=0  response: <think>Upon examining the image, the object displays consistent material properties, smooth surface texture, and symmetr
+    9. cable/test/bent_wire/005.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a structured and symmetrical arrangement of three distinct components within 
+   10. cable/test/bent_wire/009.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a circular cross-section of a material, likely a composite or industrial comp
+   11. cable/test/bent_wire/011.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a cross-section of what appears to be a multi-conductor electrical cable. The
+   12. cable/test/bent_wire/002.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a consistent and symmetrical arrangement of three distinct, well-defined circ
+   13. cable/test/bent_wire/008.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe three distinct, well-defined circular components arranged in a structured man
+   14. cable/test/bent_wire/007.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe three distinct, well-defined circular components arranged in a clean, symmetr
+   15. cable/test/bent_wire/012.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a circular object with a textured, possibly ceramic or composite, surface. In
+   16. cable/test/bent_wire/000.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe three distinct, well-defined circular objects arranged in a bowl-like structu
+   17. cable/test/missing_cable/006.png
+       true=1  pred=0  response: <think>Upon examining the image, the object displays a symmetrical, repeating pattern consistent with a manufactured com
+   18. cable/test/missing_cable/002.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a consistent and symmetrical arrangement of objects within a defined circular
+   19. cable/test/missing_cable/007.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a consistent and symmetrical pattern with no visible cracks, discoloration, o
+   20. cable/test/missing_cable/011.png
+       true=1  pred=0  response: <think>Upon examining the image, I observe a circular object with a consistent, smooth, and uniform surface texture. The
